@@ -1,11 +1,11 @@
- <p align="center">
+<p align="center">
   <a href="https://github.com/edwinngengi-stack">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=826&text=Hello!%20I'm%20Edwin%20Ngengi" alt="Hello! I&#39;m Edwin Ngengi" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=4852e5&fontSize=54&height=90&width=826&text=Hello!%20I'm%20Edwin%20Ngengi" alt="Hello! I&#39;m Edwin Ngengi" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=3fb950&center=true&vCenter=true&width=700&height=44&lines=Full-Stack%20Developer%20%7C%20Python%20%26%20JavaScript;Building%20real%20projects%2C%20one%20commit%20at%20a%20time" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=700&height=44&lines=Full-Stack%20Developer%20%7C%20Python%20%26%20JavaScript;Building%20real%20projects%2C%20one%20commit%20at%20a%20time" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
@@ -50,14 +50,14 @@ I'm a Software Engineering graduate from Moringa School. I build web application
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=edwinngengi-stack&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=edwinngengi-stack&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=edwinngengi-stack&show_icons=true&theme=tokyonight&title_color=4852e5&icon_color=4852e5&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=edwinngengi-stack&layout=compact&theme=tokyonight&title_color=4852e5&icon_color=4852e5&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=edwinngengi-stack&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=edwinngengi-stack&bg_color=00000000&color=4852e5&line=4852e5&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ### 💭 Dev Quote
@@ -68,4 +68,3 @@ I'm a Software Engineering graduate from Moringa School. I build web application
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/edwinngengi-stack">edwinngengi-stack</a></i></p>
-
